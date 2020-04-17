@@ -1,5 +1,4 @@
 .name {
-    width: 35%;
     background-color: darkorchid;
     border: 1px solid;
 }
@@ -7,8 +6,8 @@
 .name span {
     display: block;
     font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
-    font-size: 30px;
-    padding: 10px 50px;
+    font-size: 25px;
+    padding: 6px 20px;
     text-align: center;
     text-transform: uppercase;
     text-rendering: optimizeLegibility;

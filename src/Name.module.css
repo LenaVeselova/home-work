@@ -1,0 +1,21 @@
+.name {
+    width: 35%;
+    background-color: darkorchid;
+    border: 1px solid;
+}
+
+.name span {
+    display: block;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 30px;
+    padding: 10px 50px;
+    text-align: center;
+    text-transform: uppercase;
+    text-rendering: optimizeLegibility;
+    color: #101010;
+    background-color: #ede6ff;
+    letter-spacing: .05em;
+    text-shadow:
+            2px 2px 0px #d5d5d5,
+            4px 4px 0px rgba(0, 0, 0, 0.2);
+}

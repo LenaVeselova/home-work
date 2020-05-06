@@ -1,6 +1,7 @@
 .name {
     background-color: darkorchid;
     border: 1px solid;
+    max-width: 350px;
 }
 
 .name span {

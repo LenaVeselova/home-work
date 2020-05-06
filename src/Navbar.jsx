@@ -11,7 +11,7 @@ class Navbar extends React.Component {
                 <Animated animationIn="fadeInLeft" isVisible={true} animationInDuration={2000}>
                     <div>
                         <div className={styles.item}>
-                            <NavLink onlyActiveOnIndex={true} activeClassName={styles.activeLink} to='/main'>Главная</NavLink>
+                            <NavLink activeClassName={styles.activeLink} to='/main'>Главная</NavLink>
                         </div>
                         <div className={styles.item}>
                             <NavLink activeClassName={styles.activeLink} to='/monday'>Понедельник</NavLink>
